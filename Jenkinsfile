@@ -7,7 +7,7 @@ pipeline{
     stages {
             stage ('Build') {
             steps {
-                    sh 'docker build -t kellylight/kelly:001 .'
+                    sh 'docker build -t kellylight/kelly:002 .'
             }
             }
 
@@ -19,7 +19,7 @@ pipeline{
 
         stage ('Push') {
             steps {
-                    sh 'docker push kellylight/kelly:001'
+                    sh 'docker push kellylight/kelly:002'
             }
 
             post {
