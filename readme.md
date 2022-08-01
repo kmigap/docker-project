@@ -2,4 +2,4 @@ This project is to automate the deployment process from the developer laptop usi
 
 Using IAC that is our jenkinsfile we build the image and pushed it to our dockerhub.
 
-good job
+good job.
