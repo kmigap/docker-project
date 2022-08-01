@@ -4,4 +4,4 @@ Using IAC that is our jenkinsfile we build the image and pushed it to our docker
 
 good jo this is not magic.
 
-la vrai magie c'est le travail 
+la vrai magie c'est le travail.. 
